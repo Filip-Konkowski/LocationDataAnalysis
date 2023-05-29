@@ -1,6 +1,8 @@
 # Location Data Analysis
 
-This script analyzes location data and extracts information about specific places. It takes JSON data as input and generates a CSV file with relevant information.
+This algorithm scrutinizes geolocation metadata harvested from Google Maps, abstracting particulars about designated locales, and supplements information if the said position was within the United Kingdom's territories. The purpose behind devising this algorithm was to determine instances wherein my presence was recorded beyond the boundaries of the United Kingdom. The necessity for this data compilation arose in the context of fulfilling the stipulations required for my UK naturalisation application. The objective was to ascertain and document the precise dates of my non-residential status within the UK. In order to realize this, I executed an export of pertinent data from Google Maps, following which, I activated the script within the confines of the /Takeout/Location History directory. The outcome of this algorithmic operation is a CSV file, ready for seamless integration with Google Sheets.
+
+It takes JSON data as input and generates a CSV file with relevant information.
 
 ## Requirements
 Python 3.x
