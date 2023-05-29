@@ -1,0 +1,184 @@
+{
+  "timelineObjects": [{
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 495388279,
+        "longitudeE7": 212168860,
+        "placeId": "ChIJXb1OLtTRPUcRYX9iwp-ngks",
+        "address": "Nowica 52, 38-315 Nowica, Polska",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo": {
+          "deviceTag": -1701766989
+        },
+        "locationConfidence": 100.0
+      },
+      "duration": {
+        "startTimestamp": "2016-08-26T07:35:10.467Z",
+        "endTimestamp": "2016-08-26T09:25:32.029Z"
+      },
+      "centerLatE7": 495394367,
+      "centerLngE7": 212166959,
+      "visitConfidence": 79,
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 88,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 495388279,
+        "longitudeE7": 212168860
+      },
+      "endLocation": {
+        "latitudeE7": 495485613,
+        "longitudeE7": 210877019
+      },
+      "duration": {
+        "startTimestamp": "2016-08-26T09:25:32.029Z",
+        "endTimestamp": "2016-08-26T10:30:25.353Z"
+      },
+      "distance": 22396,
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 86.97339918992296
+      }, {
+        "activityType": "WALKING",
+        "probability": 5.362367668702893
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 4.014173449248469
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 495396995,
+          "lngE7": 212168140
+        }, {
+          "latE7": 495477371,
+          "lngE7": 210873928
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 22161.638766371656,
+        "travelMode": "DRIVE",
+        "confidence": 0.9978986795883031
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 495479309,
+        "longitudeE7": 210873744,
+        "placeId": "ChIJkyLPnN_aPUcRgembLWLA_yM",
+        "address": "Stanica WOPR w Klimkówce, 38-315, gorlicki, małopolskie, Polska",
+        "name": "Gorlickie Wodne Ochotnicze Pogotowie Ratunkowe",
+        "sourceInfo": {
+          "deviceTag": -1701766989
+        },
+        "locationConfidence": 85.44653
+      },
+      "duration": {
+        "startTimestamp": "2016-08-26T10:30:25.353Z",
+        "endTimestamp": "2016-08-26T11:02:09.398Z"
+      },
+      "centerLatE7": 495485600,
+      "centerLngE7": 210876911,
+      "visitConfidence": 77,
+      "otherCandidateLocations": [{
+        "latitudeE7": 495478090,
+        "longitudeE7": 210870337,
+        "placeId": "ChIJP5ZUgd_aPUcRR4PBGIczsNw",
+        "address": "Polska",
+        "name": "posterunek Policji Wodnej",
+        "locationConfidence": 14.553468
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 76,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 495479309,
+        "longitudeE7": 210873744
+      },
+      "endLocation": {
+        "latitudeE7": 495473638,
+        "longitudeE7": 210822381
+      },
+      "duration": {
+        "startTimestamp": "2016-08-26T11:02:09.398Z",
+        "endTimestamp": "2016-08-26T11:55:27.833Z"
+      },
+      "distance": 491,
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 71.2281077305685
+      }, {
+        "activityType": "WALKING",
+        "probability": 24.84385644258604
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 2.0111350196194437
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 495477371,
+          "lngE7": 210873928
+        }, {
+          "latE7": 495526123,
+          "lngE7": 210806636
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 1644.073755624191,
+        "travelMode": "DRIVE",
+        "confidence": 0.6992054649796069
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 495498057,
+        "longitudeE7": 210814521
+      },
+      "endLocation": {
+        "latitudeE7": 495468997,
+        "longitudeE7": 210824217
+      },
+      "duration": {
+        "startTimestamp": "2016-08-26T11:55:27.833Z",
+        "endTimestamp": "2016-08-26T12:13:05Z"
+      },
+      "distance": 277,
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 70.07704100121626
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 23.266669149335186
+      }, {
+        "activityType": "CYCLING",
+        "probability": 4.918135132683154
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 495526123,
+          "lngE7": 210806636
+        }, {
+          "latE7": 495468864,
+          "lngE7": 210824089
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 1222.979824306036,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }]
+}
